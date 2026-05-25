@@ -285,7 +285,7 @@
   </div>
 
   <aside class="team-side-column"><figure class="team-overview-image">
-      <img src="/chess-pages/images/mannschaften/1-mannschaft.jpg" alt="3. Mannschaft beim Training" loading="lazy">
+      <img src="/chess-pages/images/mannschaften/1-mannschaft.png" alt="3. Mannschaft beim Training" loading="lazy">
     </figure>
 
     <section class="team-events" aria-labelledby="team-events-title">
@@ -423,13 +423,15 @@
   background: var(--app-surface, #f4f8ff);
   box-shadow: 0 4px 18px rgba(15, 23, 42, 0.07);
   overflow: hidden;
+  aspect-ratio: 4 / 3;
 }
 
 .team-overview-image img {
   width: 100%;
-  max-width: 420px;
-  height: auto;
+  height: 100%;
   display: block;
+  object-fit: cover;
+  object-position: center;
 }
 
 :root[data-theme="dark"] .team-overview-card,
