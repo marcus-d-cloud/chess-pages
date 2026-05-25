@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Schachfreunde Lichtenstein</title>
+    <link>https://marcus-d-cloud.github.io/chess-pages/geselliges/</link>
+    <description>Recent content on Schachfreunde Lichtenstein</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 12 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://marcus-d-cloud.github.io/chess-pages/geselliges/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Galerie mit Vorschau</title>
+      <link>https://marcus-d-cloud.github.io/chess-pages/geselliges/2026-04-12-galerie-mit-vorschau/</link>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://marcus-d-cloud.github.io/chess-pages/geselliges/2026-04-12-galerie-mit-vorschau/</guid>
+      <description>Beispiel fuer eine einklappbare Galerie mit vielen Bildern.</description>
+    </item>
+    <item>
+      <title>Schnappschuesse aus dem Vereinsleben</title>
+      <link>https://marcus-d-cloud.github.io/chess-pages/geselliges/2026-04-09-schnappschuesse-aus-dem-vereinsleben/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://marcus-d-cloud.github.io/chess-pages/geselliges/2026-04-09-schnappschuesse-aus-dem-vereinsleben/</guid>
+      <description>Eine kleine Galerie mit Eindruecken von unseren Vereinsabenden.</description>
+    </item>
+    <item>
+      <title>Fruehlingsabend im Verein</title>
+      <link>https://marcus-d-cloud.github.io/chess-pages/geselliges/2026-04-02-fruehlingsabend-im-verein/</link>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://marcus-d-cloud.github.io/chess-pages/geselliges/2026-04-02-fruehlingsabend-im-verein/</guid>
+      <description>Ein entspannter Vereinsabend mit Blitzpartien und Gesprächen.</description>
+    </item>
+    <item>
+      <title>Geselliges Bildergalerie</title>
+      <link>https://marcus-d-cloud.github.io/chess-pages/geselliges/2026-03-30-bildergalerie/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://marcus-d-cloud.github.io/chess-pages/geselliges/2026-03-30-bildergalerie/</guid>
+      <description>Mehrere Eindruecke aus dem Vereinsleben.</description>
+    </item>
+    <item>
+      <title>Geselliges mit Banner</title>
+      <link>https://marcus-d-cloud.github.io/chess-pages/geselliges/2026-03-30-banner/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://marcus-d-cloud.github.io/chess-pages/geselliges/2026-03-30-banner/</guid>
+      <description>Ein kleiner Eindruck aus unserem Vereinsleben.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,80 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "static/images"
+public_folder: "/images"
+
+collections:
+  - name: "news"
+    label: "News"
+    folder: "content/news"
+    create: true
+    slug: "{{slug}}"
+
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Datum", name: "date", widget: "datetime"}
+      - {label: "Inhalt", name: "body", widget: "markdown"}
+
+  - name: "events"
+    label: "Veranstaltungen"
+    folder: "content/calendar"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Datum", name: "date", widget: "datetime"}
+      - {label: "Enddatum", name: "end", widget: "datetime", required: false}
+      - label: "Mannschaft"
+        name: "mannschaft"
+        widget: "select"
+        required: false
+        hint: "Optional: Termin einer bestimmten Mannschaft zuordnen"
+        options:
+          - {label: "1. Mannschaft", value: "1"}
+          - {label: "2. Mannschaft", value: "2"}
+          - {label: "3. Mannschaft", value: "3"}
+      - {label: "Inhalt", name: "body", widget: "markdown"}
+
+  - name: "geselliges"
+    label: "Geselliges"
+    folder: "content/geselliges"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Datum", name: "date", widget: "datetime"}
+      - label: "Template"
+        name: "layout"
+        widget: "select"
+        default: "single"
+        options:
+          - {label: "Einzelbild", value: "single"}
+          - {label: "Galerie (mehrere Bilder)", value: "gallery"}
+        hint: "Waehle 'Galerie', um mehrere Bilder in einem Beitrag zu zeigen."
+      - {label: "Kurzbeschreibung", name: "description", widget: "string", required: false}
+      - {label: "Bild", name: "image", widget: "image", required: false}
+      - {label: "Alt-Text", name: "imageAlt", widget: "string", required: false}
+      - {label: "Copyright-Inhaber", name: "imageCopyrightOwner", widget: "string", required: false, hint: "Name der Person/Firma fuer dieses Bild"}
+      - {label: "Copyright-Zeichen", name: "imageCopyrightMark", widget: "string", required: false, default: "©", hint: "Standard: ©"}
+      - {label: "Fallback-Text", name: "imageCopyrightFallback", widget: "string", required: false, default: "(c)", hint: "Wird genutzt, wenn kein Zeichen gesetzt ist"}
+      - {label: "Bildnachweis", name: "imageCredit", widget: "string", required: false, hint: "Optional, z. B. 'Foto: Eigene Aufnahme'"}
+      - label: "Galerie-Bilder"
+        name: "galleryImages"
+        widget: "list"
+        required: false
+        hint: "Nur fuer Template 'Galerie'."
+        summary: "{{fields.alt}}"
+        fields:
+          - {label: "Bild", name: "src", widget: "image"}
+          - {label: "Alt-Text", name: "alt", widget: "string", required: false}
+          - {label: "Copyright-Inhaber", name: "copyrightOwner", widget: "string", required: false}
+          - {label: "Copyright-Zeichen", name: "copyrightMark", widget: "string", required: false, default: "©"}
+          - {label: "Fallback-Text", name: "copyrightFallback", widget: "string", required: false, default: "(c)"}
+          - {label: "Bildnachweis", name: "credit", widget: "string", required: false}
+          - {label: "Galerie einklappen", name: "galleryCollapsible", widget: "boolean", default: true, required: false, hint: "Bei vielen Bildern zuerst nur Vorschau zeigen"}
+          - {label: "Vorschau-Anzahl", name: "galleryPreviewCount", widget: "number", value_type: "int", default: 4, min: 1, required: false, hint: "Anzahl Bilder in der Vorschau vor 'Alle Bilder anzeigen'"}
+      - {label: "Inhalt", name: "body", widget: "markdown"}
