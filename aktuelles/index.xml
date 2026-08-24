@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Aktuelles on Schachfreunde Lichtenstein</title>
-    <link>https://marcus-d-cloud.github.io/chess-pages/aktuelles/</link>
-    <description>Recent content in Aktuelles on Schachfreunde Lichtenstein</description>
-    <generator>Hugo</generator>
-    <language>de-de</language>
-    <atom:link href="https://marcus-d-cloud.github.io/chess-pages/aktuelles/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Aktuelles</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/aktuelles/2026-04-10-vereinsmeisterschaft-2026/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/aktuelles/2026-04-10-vereinsmeisterschaft-2026/</guid>
-      <description>Neuigkeiten und aktuelle Themen des Vereins.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Aktuelles on Schachfreunde Lichtenstein</title><link>https://marcus-d-cloud.github.io/chess-pages/aktuelles/</link><description>Recent content in Aktuelles on Schachfreunde Lichtenstein</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://marcus-d-cloud.github.io/chess-pages/aktuelles/index.xml" rel="self" type="application/rss+xml"/><item><title>Aktuelles</title><link>https://marcus-d-cloud.github.io/chess-pages/aktuelles/2026-04-10-vereinsmeisterschaft-2026/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/aktuelles/2026-04-10-vereinsmeisterschaft-2026/</guid><description>Neuigkeiten und aktuelle Themen des Vereins.</description></item></channel></rss>

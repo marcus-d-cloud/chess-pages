@@ -1,303 +1,162 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Vereinsturniere on Schachfreunde Lichtenstein</title>
-    <link>https://marcus-d-cloud.github.io/chess-pages/turniere/</link>
-    <description>Recent content in Vereinsturniere on Schachfreunde Lichtenstein</description>
-    <generator>Hugo</generator>
-    <language>de-de</language>
-    <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://marcus-d-cloud.github.io/chess-pages/turniere/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Vereinsmeisterschaft 2026 – Vorrunde</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/vereinsmeisterschaft-2026-vorrunde/</link>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/vereinsmeisterschaft-2026-vorrunde/</guid>
-      <description>Vereinsturnier mit 16 Teilnehmern – Vorrunde und Paarungen.</description>
-    </item>
-    <item>
-      <title>Vereinsmeisterschaft 2026</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/vereinsmeisterschaft/</link>
-      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/vereinsmeisterschaft/</guid>
-      <description>&lt;h1 id=&#34;vereinsmeisterschaft-2026&#34;&gt;Vereinsmeisterschaft 2026&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Vereinsturniere on Schachfreunde Lichtenstein</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/</link><description>Recent content in Vereinsturniere on Schachfreunde Lichtenstein</description><generator>Hugo</generator><language>de-de</language><lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://marcus-d-cloud.github.io/chess-pages/turniere/index.xml" rel="self" type="application/rss+xml"/><item><title>Vereinsmeisterschaft 2026 – Vorrunde</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/vereinsmeisterschaft-2026-vorrunde/</link><pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/vereinsmeisterschaft-2026-vorrunde/</guid><description>Vereinsturnier mit 16 Teilnehmern – Vorrunde und Paarungen.</description></item><item><title>Vereinsmeisterschaft 2026</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/vereinsmeisterschaft/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/vereinsmeisterschaft/</guid><description>&lt;h1 id="vereinsmeisterschaft-2026"&gt;Vereinsmeisterschaft 2026&lt;/h1&gt;
 &lt;p&gt;Die diesjährige Vereinsmeisterschaft ist in vollem Gange! Hier finden Sie alle Informationen zu den aktuellen Ergebnissen und dem Turnierverlauf.&lt;/p&gt;
-&lt;h2 id=&#34;aktuelle-tabelle&#34;&gt;Aktuelle Tabelle&lt;/h2&gt;
+&lt;h2 id="aktuelle-tabelle"&gt;Aktuelle Tabelle&lt;/h2&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Platz&lt;/th&gt;
-          &lt;th&gt;Spieler&lt;/th&gt;
-          &lt;th&gt;Punkte&lt;/th&gt;
-          &lt;th&gt;Siege&lt;/th&gt;
-          &lt;th&gt;Remis&lt;/th&gt;
-          &lt;th&gt;Niederlagen&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;1&lt;/td&gt;
-          &lt;td&gt;Max Mustermann&lt;/td&gt;
-          &lt;td&gt;4.5&lt;/td&gt;
-          &lt;td&gt;4&lt;/td&gt;
-          &lt;td&gt;1&lt;/td&gt;
-          &lt;td&gt;0&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;2&lt;/td&gt;
-          &lt;td&gt;Anna Beispiel&lt;/td&gt;
-          &lt;td&gt;4.0&lt;/td&gt;
-          &lt;td&gt;3&lt;/td&gt;
-          &lt;td&gt;2&lt;/td&gt;
-          &lt;td&gt;0&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;3&lt;/td&gt;
-          &lt;td&gt;Peter Probe&lt;/td&gt;
-          &lt;td&gt;3.5&lt;/td&gt;
-          &lt;td&gt;3&lt;/td&gt;
-          &lt;td&gt;1&lt;/td&gt;
-          &lt;td&gt;1&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;4&lt;/td&gt;
-          &lt;td&gt;Lisa Test&lt;/td&gt;
-          &lt;td&gt;3.0&lt;/td&gt;
-          &lt;td&gt;2&lt;/td&gt;
-          &lt;td&gt;2&lt;/td&gt;
-          &lt;td&gt;1&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Platz&lt;/th&gt;
+&lt;th&gt;Spieler&lt;/th&gt;
+&lt;th&gt;Punkte&lt;/th&gt;
+&lt;th&gt;Siege&lt;/th&gt;
+&lt;th&gt;Remis&lt;/th&gt;
+&lt;th&gt;Niederlagen&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Max Mustermann&lt;/td&gt;
+&lt;td&gt;4.5&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Anna Beispiel&lt;/td&gt;
+&lt;td&gt;4.0&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Peter Probe&lt;/td&gt;
+&lt;td&gt;3.5&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;Lisa Test&lt;/td&gt;
+&lt;td&gt;3.0&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id=&#34;nächste-runde&#34;&gt;Nächste Runde&lt;/h2&gt;
-&lt;p&gt;Die nächste Runde findet am 22. März 2026 statt. Paarungen werden rechtzeitig bekannt gegeben.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2026</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2026/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2026/</guid>
-      <description>&lt;h1 id=&#34;turniere-2026&#34;&gt;Turniere 2026&lt;/h1&gt;
-&lt;h2 id=&#34;vereinsmeisterschaft&#34;&gt;Vereinsmeisterschaft&lt;/h2&gt;
+&lt;h2 id="nächste-runde"&gt;Nächste Runde&lt;/h2&gt;
+&lt;p&gt;Die nächste Runde findet am 22. März 2026 statt. Paarungen werden rechtzeitig bekannt gegeben.&lt;/p&gt;</description></item><item><title>Turniere 2026</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2026/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2026/</guid><description>&lt;h1 id="turniere-2026"&gt;Turniere 2026&lt;/h1&gt;
+&lt;h2 id="vereinsmeisterschaft"&gt;Vereinsmeisterschaft&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeisterschaft 2026: in der aktuellen Saison laufend&lt;/li&gt;
-&lt;li&gt;Details zur Vorrunde: &lt;a href=&#34;https://marcus-d-cloud.github.io/chess-pages/turniere/vereinsmeisterschaft-2026-vorrunde/&#34;&gt;Vereinsmeisterschaft 2026 – Vorrunde&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Gesamtübersicht: &lt;a href=&#34;https://marcus-d-cloud.github.io/chess-pages/turniere/vereinsmeisterschaft/&#34;&gt;Vereinsmeisterschaft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Details zur Vorrunde: &lt;a href="https://marcus-d-cloud.github.io/chess-pages/turniere/vereinsmeisterschaft-2026-vorrunde/"&gt;Vereinsmeisterschaft 2026 – Vorrunde&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Gesamtübersicht: &lt;a href="https://marcus-d-cloud.github.io/chess-pages/turniere/vereinsmeisterschaft/"&gt;Vereinsmeisterschaft&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;sonstige-interne-turniere&#34;&gt;Sonstige interne Turniere&lt;/h2&gt;
+&lt;h2 id="sonstige-interne-turniere"&gt;Sonstige interne Turniere&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsblitzturniere: laufend im Jahresverlauf&lt;/li&gt;
 &lt;li&gt;Herbstturnier: nach Saisonplanung&lt;/li&gt;
 &lt;li&gt;Vereinspokal: nach Saisonplanung&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2025</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2025/</guid>
-      <description>&lt;h1 id=&#34;turniere-2025&#34;&gt;Turniere 2025&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2025</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2025/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2025/</guid><description>&lt;h1 id="turniere-2025"&gt;Turniere 2025&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Dorian Linatopi&lt;/li&gt;
 &lt;li&gt;Vereinsblitzmeister: Miktat Aydin&lt;/li&gt;
 &lt;li&gt;Sieger Herbstturnier: Lukas Kembüchler&lt;/li&gt;
 &lt;li&gt;Vereinspokalsieger: Lukas Kembüchler&lt;/li&gt;
 &lt;li&gt;Vereinsschnellschachmeister: Miktat Aydin&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2024</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2024/</guid>
-      <description>&lt;h1 id=&#34;turniere-2024&#34;&gt;Turniere 2024&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2024</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2024/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2024/</guid><description>&lt;h1 id="turniere-2024"&gt;Turniere 2024&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Alfred Tröster&lt;/li&gt;
 &lt;li&gt;Vereinsblitzmeister: Miktat Aydin&lt;/li&gt;
 &lt;li&gt;Sieger Herbstturnier: Wolfgang Batt&lt;/li&gt;
 &lt;li&gt;Vereinspokalsieger: Miktat Aydin&lt;/li&gt;
 &lt;li&gt;Vereinsschnellschachmeister: Alexander Rüger&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2023</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2023/</guid>
-      <description>&lt;h1 id=&#34;turniere-2023&#34;&gt;Turniere 2023&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2023</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2023/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2023/</guid><description>&lt;h1 id="turniere-2023"&gt;Turniere 2023&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Alfred Tröster&lt;/li&gt;
 &lt;li&gt;Vereinsblitzmeister: Alexander Rüger&lt;/li&gt;
 &lt;li&gt;Vereinspokalsieger: Miktat Aydin&lt;/li&gt;
 &lt;li&gt;Vereinsschnellschachmeister: Miktat Aydin&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2022</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2022/</guid>
-      <description>&lt;h1 id=&#34;turniere-2022&#34;&gt;Turniere 2022&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2022</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2022/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2022/</guid><description>&lt;h1 id="turniere-2022"&gt;Turniere 2022&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Miktat Aydin&lt;/li&gt;
 &lt;li&gt;Vereinsblitzmeister: Miktat Aydin&lt;/li&gt;
 &lt;li&gt;Vereinspokalsieger: Wolfgang Batt&lt;/li&gt;
 &lt;li&gt;Vereinsschnellschachmeister: Alexander Rüger&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2021</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2021/</guid>
-      <description>&lt;h1 id=&#34;turniere-2021&#34;&gt;Turniere 2021&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2021</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2021/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2021/</guid><description>&lt;h1 id="turniere-2021"&gt;Turniere 2021&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Wegen Corona-Pandemie: Nur Herbstturnier&lt;/li&gt;
 &lt;li&gt;Sieger Herbstturnier: Miktat Aydin&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2020</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2020/</guid>
-      <description>&lt;h1 id=&#34;turniere-2020&#34;&gt;Turniere 2020&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2020</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2020/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2020/</guid><description>&lt;h1 id="turniere-2020"&gt;Turniere 2020&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Wegen Corona-Pandemie: Kein vereinsinterner Turnierbetrieb&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2019</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2019/</guid>
-      <description>&lt;h1 id=&#34;turniere-2019&#34;&gt;Turniere 2019&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2019</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2019/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2019/</guid><description>&lt;h1 id="turniere-2019"&gt;Turniere 2019&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Alfred Tröster&lt;/li&gt;
 &lt;li&gt;Vereinsblitzmeister: Alexander Rüger&lt;/li&gt;
 &lt;li&gt;Sieger Herbstturnier: Miktat Aydin&lt;/li&gt;
 &lt;li&gt;Vereinspokalsieger: Miktat Aydin&lt;/li&gt;
 &lt;li&gt;Vereinsschnellschachmeister: Peter Nussbaum&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2018</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2018/</guid>
-      <description>&lt;h1 id=&#34;turniere-2018&#34;&gt;Turniere 2018&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2018</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2018/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2018/</guid><description>&lt;h1 id="turniere-2018"&gt;Turniere 2018&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Peter Steppan&lt;/li&gt;
 &lt;li&gt;Vereinsblitzmeister: Alexander Rüger&lt;/li&gt;
 &lt;li&gt;Sieger Herbstturnier: Miktat Aydin&lt;/li&gt;
 &lt;li&gt;Vereinspokalsieger: Wolfgang Batt&lt;/li&gt;
 &lt;li&gt;Vereinsschnellschachmeister: Alexander Rüger&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2017</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2017/</guid>
-      <description>&lt;h1 id=&#34;turniere-2017&#34;&gt;Turniere 2017&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2017</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2017/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2017/</guid><description>&lt;h1 id="turniere-2017"&gt;Turniere 2017&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Alfred Tröster&lt;/li&gt;
 &lt;li&gt;Vereinsblitzmeister: Miktat Aydin&lt;/li&gt;
 &lt;li&gt;Sieger Herbstturnier: Alfred Tröster&lt;/li&gt;
 &lt;li&gt;Vereinspokalsieger: Alexander Rüger&lt;/li&gt;
 &lt;li&gt;Vereinsschnellschachmeister: Miktat Aydin&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2016</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2016/</guid>
-      <description>&lt;h1 id=&#34;turniere-2016&#34;&gt;Turniere 2016&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2016</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2016/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2016/</guid><description>&lt;h1 id="turniere-2016"&gt;Turniere 2016&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Sergej Barkovski&lt;/li&gt;
 &lt;li&gt;Vereinsblitzmeister: Alexander Rüger&lt;/li&gt;
 &lt;li&gt;Sieger Herbstturnier: Sergej Barkovski&lt;/li&gt;
 &lt;li&gt;Vereinspokalsieger: Alfred Tröster&lt;/li&gt;
 &lt;li&gt;Vereinsschnellschachmeister: Peter Nussbaum&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2015</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2015/</guid>
-      <description>&lt;h1 id=&#34;turniere-2015&#34;&gt;Turniere 2015&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2015</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2015/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2015/</guid><description>&lt;h1 id="turniere-2015"&gt;Turniere 2015&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Miktat Aydin&lt;/li&gt;
 &lt;li&gt;Vereinsblitzmeister: Peter Steppan&lt;/li&gt;
 &lt;li&gt;Sieger Herbstturnier: Wolfgang Batt&lt;/li&gt;
 &lt;li&gt;Vereinspokalsieger: Alexander Rüger&lt;/li&gt;
 &lt;li&gt;Vereinsschnellschachmeister: Miktat Aydin&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2014</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2014/</guid>
-      <description>&lt;h1 id=&#34;turniere-2014&#34;&gt;Turniere 2014&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2014</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2014/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2014/</guid><description>&lt;h1 id="turniere-2014"&gt;Turniere 2014&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Alfred Tröster&lt;/li&gt;
 &lt;li&gt;Vereinsblitzmeister: Alexander Rüger&lt;/li&gt;
 &lt;li&gt;Sieger Herbstturnier: Peter Steppan&lt;/li&gt;
 &lt;li&gt;Vereinspokalsieger: Michael Rix&lt;/li&gt;
 &lt;li&gt;Vereinsschnellschachmeister: Miktat Aydin&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2013</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2013/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2013/</guid>
-      <description>&lt;h1 id=&#34;turniere-2013&#34;&gt;Turniere 2013&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2013</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2013/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2013/</guid><description>&lt;h1 id="turniere-2013"&gt;Turniere 2013&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Peter Steppan&lt;/li&gt;
 &lt;li&gt;Vereinsblitzmeister: Miktat Aydin&lt;/li&gt;
 &lt;li&gt;Sieger Herbstturnier: Alfred Tröster&lt;/li&gt;
 &lt;li&gt;Vereinspokalsieger: Alfred Tröster&lt;/li&gt;
 &lt;li&gt;Vereinsschnellschachmeister: Peter Nußbaum&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2012</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2012/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2012/</guid>
-      <description>&lt;h1 id=&#34;turniere-2012&#34;&gt;Turniere 2012&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2012</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2012/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2012/</guid><description>&lt;h1 id="turniere-2012"&gt;Turniere 2012&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Miktat Aydin&lt;/li&gt;
 &lt;li&gt;Vereinsblitzmeister: Miktat Aydin&lt;/li&gt;
 &lt;li&gt;Sieger Herbstturnier: Reinhold Schröder&lt;/li&gt;
 &lt;li&gt;Vereinspokalsieger: Alexander Rüger&lt;/li&gt;
 &lt;li&gt;Vereinsschnellschachmeister: Alexander Rüger&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2011</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2011/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2011/</guid>
-      <description>&lt;h1 id=&#34;turniere-2011&#34;&gt;Turniere 2011&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2011</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2011/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2011/</guid><description>&lt;h1 id="turniere-2011"&gt;Turniere 2011&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Alfred Tröster und Mathias Werz&lt;/li&gt;
 &lt;li&gt;Vereinsblitzmeister: Alexander Rüger&lt;/li&gt;
 &lt;li&gt;Sieger Herbstturnier: Michael Rix&lt;/li&gt;
 &lt;li&gt;Vereinspokalsieger: Alexander Rüger&lt;/li&gt;
 &lt;li&gt;Vereinsschnellschachmeister: Tobias Dolgener&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2010</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2010/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2010/</guid>
-      <description>&lt;h1 id=&#34;turniere-2010&#34;&gt;Turniere 2010&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2010</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2010/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2010/</guid><description>&lt;h1 id="turniere-2010"&gt;Turniere 2010&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Mathias Werz&lt;/li&gt;
 &lt;li&gt;Sieger Gruppe 2: Wolfgang Batt&lt;/li&gt;
@@ -305,28 +164,14 @@
 &lt;li&gt;Sieger Herbstturnier: Michael Rix&lt;/li&gt;
 &lt;li&gt;Vereinspokalsieger: Alexander Rüger&lt;/li&gt;
 &lt;li&gt;Vereinsschnellschachmeister: Alexander Rüger&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2009</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2009/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2009/</guid>
-      <description>&lt;h1 id=&#34;turniere-2009&#34;&gt;Turniere 2009&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2009</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2009/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2009/</guid><description>&lt;h1 id="turniere-2009"&gt;Turniere 2009&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Miktat Aydin und Mathias Werz&lt;/li&gt;
 &lt;li&gt;Vereinsblitzmeister: Miktat Aydin&lt;/li&gt;
 &lt;li&gt;Sieger Herbstturnier: Peter Steppan&lt;/li&gt;
 &lt;li&gt;Vereinspokalsieger: Alexander Rüger&lt;/li&gt;
 &lt;li&gt;Vereinsschnellschachmeister: Miktat Aydin&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2008</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2008/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2008/</guid>
-      <description>&lt;h1 id=&#34;turniere-2008&#34;&gt;Turniere 2008&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2008</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2008/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2008/</guid><description>&lt;h1 id="turniere-2008"&gt;Turniere 2008&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Michael Rix&lt;/li&gt;
 &lt;li&gt;Sieger Gruppe 2: Mathias Werz&lt;/li&gt;
@@ -334,14 +179,7 @@
 &lt;li&gt;Sieger Herbstturnier: Miktat Aydin&lt;/li&gt;
 &lt;li&gt;Vereinspokalsieger: Alexander Rüger&lt;/li&gt;
 &lt;li&gt;Vereinsschnellschachmeister: Miktat Aydin&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2007</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2007/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2007/</guid>
-      <description>&lt;h1 id=&#34;turniere-2007&#34;&gt;Turniere 2007&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2007</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2007/</link><pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2007/</guid><description>&lt;h1 id="turniere-2007"&gt;Turniere 2007&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Alfred Tröster&lt;/li&gt;
 &lt;li&gt;Sieger Gruppe 2: Gerda Sievers&lt;/li&gt;
@@ -349,14 +187,7 @@
 &lt;li&gt;Sieger Herbstturnier: Miktat Aydin&lt;/li&gt;
 &lt;li&gt;Vereinspokalsieger: Alexander Rüger&lt;/li&gt;
 &lt;li&gt;Sieger Jubiläumsschnellturnier: Karl-Heinz Hirrle&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2006</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2006/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2006/</guid>
-      <description>&lt;h1 id=&#34;turniere-2006&#34;&gt;Turniere 2006&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2006</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2006/</link><pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2006/</guid><description>&lt;h1 id="turniere-2006"&gt;Turniere 2006&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Miktat Aydin&lt;/li&gt;
 &lt;li&gt;Sieger Gruppe 2: Wolfgang Batt&lt;/li&gt;
@@ -364,14 +195,7 @@
 &lt;li&gt;Sieger Herbstturnier: Alfred Tröster&lt;/li&gt;
 &lt;li&gt;Vereinspokalsieger: Alexander Rüger&lt;/li&gt;
 &lt;li&gt;Vereinsschnellschachmeister: Alexander Rüger&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2005</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2005/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2005/</guid>
-      <description>&lt;h1 id=&#34;turniere-2005&#34;&gt;Turniere 2005&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2005</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2005/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2005/</guid><description>&lt;h1 id="turniere-2005"&gt;Turniere 2005&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Ralf Morvai&lt;/li&gt;
 &lt;li&gt;Sieger Gruppe 2: Mathias Werz&lt;/li&gt;
@@ -379,14 +203,7 @@
 &lt;li&gt;Sieger Herbstturnier: Alfred Tröster&lt;/li&gt;
 &lt;li&gt;Vereinspokalsieger: Alexander Rüger&lt;/li&gt;
 &lt;li&gt;Vereinsschnellschachmeister: Peter Steppan&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2004</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2004/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2004/</guid>
-      <description>&lt;h1 id=&#34;turniere-2004&#34;&gt;Turniere 2004&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2004</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2004/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2004/</guid><description>&lt;h1 id="turniere-2004"&gt;Turniere 2004&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Grover Rondonuwu&lt;/li&gt;
 &lt;li&gt;Sieger Gruppe 2: Karl-Heinz Hirrle&lt;/li&gt;
@@ -394,14 +211,7 @@
 &lt;li&gt;Sieger Herbstturnier: Michael Rix&lt;/li&gt;
 &lt;li&gt;Vereinspokalsieger: Michael Rix&lt;/li&gt;
 &lt;li&gt;Vereinsschnellschachmeister: Miktat Aydin&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2003</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2003/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2003/</guid>
-      <description>&lt;h1 id=&#34;turniere-2003&#34;&gt;Turniere 2003&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2003</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2003/</link><pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2003/</guid><description>&lt;h1 id="turniere-2003"&gt;Turniere 2003&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Grover Rondonuwu&lt;/li&gt;
 &lt;li&gt;Sieger Gruppe 2: Wolfgang Batt&lt;/li&gt;
@@ -409,33 +219,16 @@
 &lt;li&gt;Sieger Herbstturnier: Grover Rondonuwu&lt;/li&gt;
 &lt;li&gt;Vereinspokalsieger: Peter Steppan&lt;/li&gt;
 &lt;li&gt;Vereinsschnellschachmeister: Ralf Morwai&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2002</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2002/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2002/</guid>
-      <description>&lt;h1 id=&#34;turniere-2002&#34;&gt;Turniere 2002&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2002</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2002/</link><pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2002/</guid><description>&lt;h1 id="turniere-2002"&gt;Turniere 2002&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Alexander Rüger&lt;/li&gt;
 &lt;li&gt;Vereinsblitzmeister: Alexander Rüger&lt;/li&gt;
 &lt;li&gt;Sieger Herbstturnier: Peter Steppan&lt;/li&gt;
 &lt;li&gt;Vereinspokalsieger: Peter Seynstahl&lt;/li&gt;
 &lt;li&gt;Vereinsschnellschachmeister: Alexander Rüger&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Turniere 2001</title>
-      <link>https://marcus-d-cloud.github.io/chess-pages/turniere/2001/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2001/</guid>
-      <description>&lt;h1 id=&#34;turniere-2001&#34;&gt;Turniere 2001&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Turniere 2001</title><link>https://marcus-d-cloud.github.io/chess-pages/turniere/2001/</link><pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate><guid>https://marcus-d-cloud.github.io/chess-pages/turniere/2001/</guid><description>&lt;h1 id="turniere-2001"&gt;Turniere 2001&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Vereinsmeister: Miktat Aydin&lt;/li&gt;
 &lt;li&gt;Sieger Herbstturnier: Alexander Rüger&lt;/li&gt;
 &lt;li&gt;Vereinsschnellschachmeister: Alexander Rüger&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;/ul&gt;</description></item></channel></rss>
